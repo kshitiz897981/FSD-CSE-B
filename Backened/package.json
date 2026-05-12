@@ -1,0 +1,15 @@
+{
+  "name": "backened",
+  "version": "1.0.0",
+  "description": "connecting backened to frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "kshitiz varshney",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "express": "^5.2.1"
+  }
+}
